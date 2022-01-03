@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BEEP Pin=R5-2
+Added Pin To Net: NetName=BEEP Pin=STM32F401CCU6最小系统板-22
+Added Net: Name=BEEP

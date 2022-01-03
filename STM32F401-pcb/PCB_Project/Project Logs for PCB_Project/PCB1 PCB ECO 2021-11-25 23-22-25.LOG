@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=BEEP Pin=R5-2
+Removed Pin From Net: NetName=BEEP Pin=STM32F401CCU6最小系统板-22
+Change Component Footprint: Designator=R6 Old Footprint=R 0603_M New Footprint=R 0805_M
+Change Component Footprint: Designator=R7 Old Footprint=R 0603_M New Footprint=R 0805_M
+Change Component Footprint: Designator=R1 Old Footprint=R 0805_L New Footprint=R 0805_M
+Change Component Footprint: Designator=R2 Old Footprint=R 0805_L New Footprint=R 0805_M
+Change Component Footprint: Designator=R3 Old Footprint=R 0805_L New Footprint=R 0805_M
+Change Component Footprint: Designator=R4 Old Footprint=R 0805_L New Footprint=R 0805_M
+Change Component Footprint: Designator=R5 Old Footprint=R 0805_L New Footprint=R 0805_M
+Change Component Designator: OldDesignator=Battery NewDesignator=Battery1
+Change Component Designator: OldDesignator=Down NewDesignator=KEY3
+Change Component Designator: OldDesignator=OK NewDesignator=KEY4
+Change Component Designator: OldDesignator=OLED NewDesignator=OLED1
+Change Component Designator: OldDesignator=Set NewDesignator=KEY1
+Change Component Designator: OldDesignator=Up NewDesignator=KEY2
+Added Pin To Net: NetName=BEEP Pin=Q1-1
+Added Pin To Net: NetName=BEEP Pin=R5-1
+Change Net Name : Old Net Name=BEEP New Net Name=GND
+Added Pin To Net: NetName=NetKEY1_2 Pin=KEY1-2
+Added Pin To Net: NetName=NetKEY1_2 Pin=KEY2-1
+Added Net: Name=NetKEY1_2

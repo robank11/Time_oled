@@ -1,0 +1,133 @@
+Added Component: Designator=Battery1(Battery)
+Added Component: Designator=BEEP1(BEEP)
+Added Component: Designator=DHT11(DHT11)
+Added Component: Designator=K1(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=K2(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=K3(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=K4(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED 0805G)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=OLED1(OLED)
+Added Component: Designator=Q1(SOT-23)
+Added Component: Designator=R1(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=STM32F401CCU6最小系统板(STM32F401CCU6)
+Added Pin To Net: NetName=+5 Pin=BEEP1-1
+Added Pin To Net: NetName=+5 Pin=OLED1-2
+Added Pin To Net: NetName=+5 Pin=STM32F401CCU6最小系统板-18
+Added Pin To Net: NetName=+5 Pin=STM32F401CCU6最小系统板-40
+Added Net: Name=+5
+Added Pin To Net: NetName=BEEP Pin=R5-2
+Added Pin To Net: NetName=BEEP Pin=STM32F401CCU6最小系统板-23
+Added Net: Name=BEEP
+Added Pin To Net: NetName=DQ Pin=DHT11-2
+Added Pin To Net: NetName=DQ Pin=R8-1
+Added Pin To Net: NetName=DQ Pin=STM32F401CCU6最小系统板-35
+Added Net: Name=DQ
+Added Pin To Net: NetName=GND Pin=Battery1-2
+Added Pin To Net: NetName=GND Pin=DHT11-3
+Added Pin To Net: NetName=GND Pin=DHT11-4
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K4-1
+Added Pin To Net: NetName=GND Pin=OLED1-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=STM32F401CCU6最小系统板-19
+Added Pin To Net: NetName=GND Pin=STM32F401CCU6最小系统板-39
+Added Net: Name=GND
+Added Pin To Net: NetName=KEY1 Pin=K1-2
+Added Pin To Net: NetName=KEY1 Pin=R1-1
+Added Pin To Net: NetName=KEY1 Pin=STM32F401CCU6最小系统板-26
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=K2-2
+Added Pin To Net: NetName=KEY2 Pin=R2-1
+Added Pin To Net: NetName=KEY2 Pin=STM32F401CCU6最小系统板-28
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=K3-2
+Added Pin To Net: NetName=KEY3 Pin=R3-1
+Added Pin To Net: NetName=KEY3 Pin=STM32F401CCU6最小系统板-29
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=K4-2
+Added Pin To Net: NetName=KEY4 Pin=R4-1
+Added Pin To Net: NetName=KEY4 Pin=STM32F401CCU6最小系统板-30
+Added Net: Name=KEY4
+Added Pin To Net: NetName=LED Pin=LED1-2
+Added Pin To Net: NetName=LED Pin=STM32F401CCU6最小系统板-37
+Added Net: Name=LED
+Added Pin To Net: NetName=NetBEEP1_2 Pin=BEEP1-2
+Added Pin To Net: NetName=NetBEEP1_2 Pin=Q1-3
+Added Net: Name=NetBEEP1_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R7-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R6-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=SCL Pin=OLED1-3
+Added Pin To Net: NetName=SCL Pin=STM32F401CCU6最小系统板-16
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=OLED1-4
+Added Pin To Net: NetName=SDA Pin=STM32F401CCU6最小系统板-17
+Added Net: Name=SDA
+Added Pin To Net: NetName=VB Pin=Battery1-1
+Added Pin To Net: NetName=VB Pin=STM32F401CCU6最小系统板-21
+Added Net: Name=VB
+Added Pin To Net: NetName=VCC Pin=DHT11-1
+Added Pin To Net: NetName=VCC Pin=LED1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=STM32F401CCU6最小系统板-20
+Added Pin To Net: NetName=VCC Pin=STM32F401CCU6最小系统板-38
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

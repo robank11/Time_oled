@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=KEY1 Pin=KEY1-3
+Removed Pin From Net: NetName=KEY1 Pin=KEY1-4
+Removed Pin From Net: NetName=KEY2 Pin=KEY2-3
+Removed Pin From Net: NetName=KEY2 Pin=KEY2-4
+Removed Pin From Net: NetName=KEY3 Pin=KEY3-3
+Removed Pin From Net: NetName=KEY3 Pin=KEY3-4
+Removed Pin From Net: NetName=GND Pin=KEY4-2
+Removed Pin From Net: NetName=KEY4 Pin=KEY4-3
+Removed Pin From Net: NetName=KEY4 Pin=KEY4-4
+Removed Member From Class: ClassName=Sheet1 Member=KEY1
+Removed Member From Class: ClassName=Sheet1 Member=KEY2
+Removed Member From Class: ClassName=Sheet1 Member=KEY3
+Removed Member From Class: ClassName=Sheet1 Member=KEY4
+Added Component: Designator=K1(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=K2(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=K3(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=K4(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "BOM名称"; Value = "四角直插开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"

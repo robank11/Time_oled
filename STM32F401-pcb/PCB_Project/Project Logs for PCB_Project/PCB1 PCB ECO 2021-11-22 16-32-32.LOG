@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R6 Old Footprint=R 0805_L New Footprint=R 0603_M
+Change Component Footprint: Designator=R7 Old Footprint=R 0805_L New Footprint=R 0603_M
+Added Room: Name=Sheet1

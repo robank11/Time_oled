@@ -1,0 +1,7 @@
+Added Component: Designator=LED?(LED 0805G)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED Pin=LED?-2
+Added Pin To Net: NetName=LED Pin=STM32F401CCU6最小系统板-37
+Added Net: Name=LED
